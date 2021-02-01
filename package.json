@@ -1,0 +1,25 @@
+{
+  "name": "reciepts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArlayshaO/Reciepts.git"
+  },
+  "author": "Arlaysha Osborn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArlayshaO/Reciepts/issues"
+  },
+  "homepage": "https://github.com/ArlayshaO/Reciepts#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "formidable": "^1.2.2",
+    "nodemon": "^2.0.7"
+  }
+}
